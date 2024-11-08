@@ -1,8 +1,8 @@
-<h1 align="left">Rodrigo Santos</h1>
+# 🧑🏽‍💻 Rodrigo Santos
 
 ###
 
-<h4 align="left">**`Desenvolvedor FullStack`**</h4>
+**`Desenvolvedor FullStack`**
 
 ###
 
@@ -38,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+---
 ###
 
 <h4 align="left">📊 Estatísticas</h4>
