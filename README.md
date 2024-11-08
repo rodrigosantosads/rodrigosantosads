@@ -9,8 +9,10 @@
 <br clear="both">
 
 <p align="left">Me chamo Rodrigo Santos, tenho 22 anos e sou natural do interior de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou dedicado a aprender novas tecnologias e aprimorar minhas habilidades na área de desenvolvimento. Tenho interesse em explorar o desenvolvimento Full Stack, com o objetivo de criar soluções digitais funcionais e inovadoras. Estou constantemente buscando novas oportunidades para expandir meu conhecimento e estou aberto a desafios que possam contribuir para o meu crescimento profissional.</p>
----
+
 ###
+
+---
 
 <h4 align="left">🤖 Linguagens e Tecnologia</h4>
 
