@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">**`Desenvolvedor FullStack`**</h4>
 
 ###
